@@ -1,5 +1,4 @@
-# har
-Human Activity Recognition with Smartphones
+# Human Activity Recognition with Smartphones
 ---
 
 Evaluate various networks on human activity recognition base on time series mobile sensors data
