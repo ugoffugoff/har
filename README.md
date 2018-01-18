@@ -6,17 +6,17 @@ Evaluate various networks on human activity recognition base on time series mobi
 
 networks include
 
-⋅⋅* Linear network
+* Linear network
 
-⋅⋅* 1D convolution network
+* 1D convolution network
 
-⋅⋅* LSTM network
+* LSTM network
 
-⋅⋅* Bidirectional LSTM network
+* Bidirectional LSTM network
 
-⋅⋅* Attention network
+* Attention network
 
-⋅⋅* Self attention network
+* Self attention network
 
 data set taken from UCI
 
